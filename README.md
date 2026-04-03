@@ -8,6 +8,6 @@ Set **chunksize** to **8** for better results
 
 ## Test
 Here i tried compressing the whole **Internet Explorer** folder in Program Files using chunksize **4** and got good results, look
-![screenshot](screenshot.png
+![screenshot](screenshot.png)
 
 For who wants to check the compressed file to see if its real, get it [here](https://github.com/prankapple-alt/cliffexpress/releases/download/D/iex.eclif)
